@@ -2,7 +2,7 @@
 sinav_sonuc = {'isimler':['ayse k.','ahmet m.','nuri c.','nawwar t.','suzan t.','ala b.'],
 'cinsiyet':['k','e','e','e','k','k'],
 'matematik':[60,40,97,45,56,95],
-'türkce':[70,30,23,80,78,46]}
+'türkce':[70,30,23,80,78,45 ],
 kız_sayısı=0
 erkek_sayısı=0
 kız_matematik=0
